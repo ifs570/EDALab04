@@ -40,6 +40,7 @@
 <tr><td colspan="4">Integrantes:
         <ul>
             <li><h5>Flores Sucapuca, Ervin Eleazar </h5></li>
+            <li><h5>Link Repositorio: https://github.com/ifs570/EDALab04.git </h5></li>
         </ul>
     </td>
     <td colspan="2">Nota:</td>
